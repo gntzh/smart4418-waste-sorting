@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Waste Sorting</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="log_in">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="residual_waste">residual waste</string>
+    <string name="kitchen_waste">kitchen waste</string>
+    <string name="harmful_waste">harmful waste</string>
+    <string name="recyclable_waste">recyclable waste</string>
+    <string name="current_range_prompt">Current distance from machine:</string>
+    <string name="step1_title">"Detect distance "</string>
+    <string name="step1_desc">Operate within 10cm of the machine</string>
+    <string name="step2_title">Identify garbage</string>
+    <string name="step2_desc">Place garbage to identify the color of garbage</string>
+    <string name="step3_title">Throw garbage</string>
+    <string name="step3_desc">Follow the instructions to throw garbage</string>
+    <string name="range_prompt1">Please operate when you are</string>
+    <string name="range_prompt2">away from the machine</string>
+    <string name="welcome">Welcome to WuBa waste sorting robot</string>
+    <string name="login_prompt">Please use WeChat mini program to scan code login</string>
+    <string name="login_required_prompt">The robot requires a login to use</string>
+    <string name="send_prompt">Send</string>
+</resources>
